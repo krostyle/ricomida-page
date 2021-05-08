@@ -1,0 +1,26 @@
+.ricomida{
+    font-family: 'Lobster', sans-serif;
+    font-size:5vh;
+}
+
+.my-line{
+    border-bottom: solid 1px black;
+}
+
+.carousel-section{
+    border-bottom: solid 1px black;
+}
+
+.carousel-indicators button{ 
+	background-color: black!important ;    
+	width: 10px !important;
+	height: 10px !important;
+	border-radius: 50% !important;
+    margin:2px !important;
+}
+
+.carousel-indicators {
+	top: 100%;
+	border-radius: 50%;
+}
+
